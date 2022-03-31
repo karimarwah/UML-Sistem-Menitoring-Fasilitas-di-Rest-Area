@@ -1,1 +1,1 @@
-# UML-Sistem-Peringkasan-Abstraktif-Teks-Berbahasa-Indonesia
+# UML Sistem Peringkasan Abstraktif Teks Berbahasa Indonesia
